@@ -106,3 +106,23 @@ Infelizmente não pode agradar a todos :´(.
 Sobre um feedback textual de quem participou, fizemos uma nuvem de palavras! E foi muito bom ver as maiores palavras!
 
 ![nuvem](nuvem_sugestoes.png)
+
+## Considerando os dados observados pelo YouTube
+
+Apoiados nos dados obtidos por meio do YouTube Studio do Grupo CiDAMO, podemos esboçar o perfil dos espectadores da CiDWeek, respondendo perguntas como “quem são?”, “de onde vem?”, “para onde vão?” HOJE! No Globo Repórter!!!
+
+Ao todo, o canal do CiDAMO no Youtube recebeu 4953 visualizações na semana da 2ª CiDWeek - entre os dias 26 e 30 de abril - onde 52,3% são de inscritos do canal. As visualizações são quase que inteiramente do Brasil, como pode-se ver:
+
+![youtube1](youtube1.png)
+
+A idade dos espectadores concentra-se principalmente entre 18 e 44 anos, sendo que 47% das visualizações vieram de pessoas com idade entre 25 e 34 anos, como segue:
+
+![youtube2](youtube2.png)
+
+Dentre essas 4953 visualizações, 70,1% são de pessoas de gênero masculino e 29,9% do gênero feminino:
+
+![youtube3](youtube3.png)
+
+Por último, é interessante notar que 66% das visualizações ocorreram em computadores e 30% em dispositivos móveis.
+
+![youtube3](youtube4.png)
