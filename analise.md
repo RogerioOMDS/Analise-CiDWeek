@@ -105,7 +105,7 @@ Infelizmente não pode agradar a todos :´(.
 
 Sobre um feedback textual de quem participou, fizemos uma nuvem de palavras! E foi muito bom ver as maiores palavras!
 
-![nuvem](nuvem_sugestoes.png)
+![nuvem](nuvem_sugestoes2.png)
 
 ## Considerando os dados observados pelo YouTube
 
